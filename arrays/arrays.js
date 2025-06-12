@@ -75,6 +75,8 @@ console.log(Array.isArray(cll));
 
 console.log(cll instanceof Array);
 
+// Nested Arrays and Objects
+
 let x = "";
 const myObj = {
   name: "Ezequias",
